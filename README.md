@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | Angular, Grails, React, Flutter, Docker, SQL, .NET, Node.js, WordPress
 ---------------------------------------------------------------------------------------------
 
-I am a dedicated Full Stack Developer with 1.5 years of full-time experience and an additional 2 years of part-time front-end experience. My expertise lies in building and maintaining complex ERP, CRM, and CRP projects using technologies such as Angular and Grails. I have a proven track record as a solo programmer, responsible for both front-end and back-end development, including feature additions, maintenance, and bug fixes.
+I am a dedicated Full Stack Developer with 1.5 years of full-time experience and an additional 1.5 years of front-end development experience. I am skilled in building and maintaining complex ERP, CRM systems, leveraging technologies like Angular and Grails. My expertise spans both front-end and back-end development, where I have consistently demonstrated the ability to take ownership of entire projects, including feature implementation, maintenance, and bug fixes.
 
 * ✉️  You can contact me at [faisol.wr@gmail.com](mailto:faisol.wr@gmail.com)
 
